@@ -1,0 +1,347 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/home/zhangjialin/vue-exp/lin/config/config.default.js"
+  },
+  "view": {
+    "cache": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view@2.1.0@egg-view/config/config.local.js",
+    "root": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "defaultExtension": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "defaultViewEngine": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js"
+    }
+  },
+  "vuessr": {
+    "layout": "/home/zhangjialin/vue-exp/lin/config/config.default.js",
+    "renderOptions": {
+      "basedir": "/home/zhangjialin/vue-exp/lin/config/config.default.js",
+      "runInNewContext": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js"
+    },
+    "doctype": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js",
+    "manifest": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js",
+    "injectHeadRegex": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js",
+    "injectBodyRegex": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js",
+    "injectCss": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.local.js",
+    "injectJs": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js",
+    "injectRes": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js",
+    "crossorigin": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js",
+    "mergeLocals": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js",
+    "fallbackToClient": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js",
+    "cache": {
+      "max": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js",
+      "maxAge": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js"
+    },
+    "afterRender": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-view-vue-ssr@3.1.2@egg-view-vue-ssr/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/home/zhangjialin/vue-exp/lin/config/config.default.js",
+    "dir": "/home/zhangjialin/vue-exp/lin/config/config.default.js",
+    "encoding": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "env": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "level": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "outputJSON": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "buffer": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "appLogName": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "coreLogName": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "agentLogName": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "errorLogName": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/home/zhangjialin/vue-exp/lin/config/config.default.js",
+    "dir": "/home/zhangjialin/vue-exp/lin/config/config.default.js",
+    "maxAge": "/home/zhangjialin/vue-exp/lin/config/config.local.js",
+    "dynamic": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "preload": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "buffer": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "maxFiles": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js"
+  },
+  "keys": "/home/zhangjialin/vue-exp/lin/config/config.default.js",
+  "middleware": "/home/zhangjialin/vue-exp/lin/config/config.default.js",
+  "development": {
+    "watchDirs": "/home/zhangjialin/vue-exp/lin/config/config.local.js",
+    "ignoreDirs": "/home/zhangjialin/vue-exp/lin/config/config.local.js",
+    "fastReady": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js",
+    "reloadOnDebug": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js",
+    "overrideDefault": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js"
+  },
+  "logview": {
+    "dir": "/home/zhangjialin/vue-exp/lin/config/config.local.js",
+    "prefix": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-logview@1.0.1@egg-logview/config/config.default.js",
+    "staticHost": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-logview@1.0.1@egg-logview/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/home/zhangjialin/vue-exp/lin/config/config.local.js",
+    "protocolWhiteList": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+    "defaultMiddleware": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "useSession": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "ignoreJSON": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "cookieName": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "sessionName": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "headerName": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "bodyName": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "queryName": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "value": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.local.js",
+      "maxAge": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "includeSubdomains": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "value": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "value": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "policy": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "checkAddress": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "dirs": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "queryField": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieField": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js",
+      "development": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "defaultCharset": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "fieldSize": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "fields": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "fileSize": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "files": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "fileExtensions": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "whitelist": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-schedule@3.4.0@egg-schedule/config/config.default.js",
+      "file": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-schedule@3.4.0@egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFiles": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxDays": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js"
+  },
+  "cors": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-cors@2.1.0@egg-cors/config/config.default.js",
+  "webpack": {
+    "port": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-webpack@4.1.2@egg-webpack/config/config.default.js",
+    "proxy": {
+      "host": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-webpack@4.1.2@egg-webpack/config/config.default.js",
+      "match": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-webpack@4.1.2@egg-webpack/config/config.default.js"
+    },
+    "webpackConfigList": "/home/zhangjialin/vue-exp/lin/node_modules/_egg-webpack@4.1.2@egg-webpack/config/config.default.js"
+  },
+  "env": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "name": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "proxy": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "protocolHeaders": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "ipHeaders": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "hostHeaders": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "pkg": {
+    "name": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "version": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "description": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "scripts": {
+      "debug": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "build": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "build:dev": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "build:test": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "build:prod": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "clean": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "dev": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "start": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "lint": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "fix": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "ii": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "dependencies": {
+      "axios": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "cross-env": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-bin": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-cors": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-logger": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-validate": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-view-vue-ssr": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "element-ui": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "extend": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "lodash": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "mint-ui": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "mockjs": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "moment": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "vue": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "vue-hot-reload-api": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "vue-router": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "vuex": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "vuex-router-sync": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "autoprefixer": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "babel-plugin-add-module-exports": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "babel-plugin-syntax-dynamic-import": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "babel-plugin-transform-object-assign": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "babel-plugin-transform-object-rest-spread": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "babel-plugin-transform-runtime": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "babel-preset-env": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "easywebpack-cli": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "easywebpack-vue": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-logview": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-webpack": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-webpack-vue": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "eslint": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "eslint-config-egg": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "eslint-plugin-vue": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "imagemin-webpack-plugin": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "ip": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "less": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "less-loader": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "node-sass": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "sass-loader": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "uglifyjs-webpack-plugin": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "vconsole": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "url": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "author": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "license": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "homepage": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "baseDir": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "HOME": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "rundir": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "notFound": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "sitefile": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "middlewares": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "httpClient": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "encoding": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "formLimit": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "jsonLimit": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "strict": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "depth": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "parameterLimit": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "dnsCacheMaxAge": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "request": {
+      "timeout": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "maxSockets": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "maxFreeSockets": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "maxSockets": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "maxFreeSockets": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "logging": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "workerStartTimeout": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "port": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "hostname": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "responseTimeout": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "onClientError": "/home/zhangjialin/vue-exp/lin/node_modules/_egg@2.10.0@egg/config/config.default.js"
+}

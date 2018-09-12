@@ -1,0 +1,375 @@
+2018-09-04 20:45:41,886 INFO 7397 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-04 20:45:41,972 INFO 7397 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-04 20:45:41,973 INFO 7397 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-04 20:45:42,055 INFO 7397 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-04 20:45:42,061 INFO 7397 [egg-security] use csrf middleware
+2018-09-04 20:45:42,064 INFO 7397 [egg-security] use methodnoallow middleware
+2018-09-04 20:45:42,065 INFO 7397 [egg-security] use noopen middleware
+2018-09-04 20:45:42,066 INFO 7397 [egg-security] use nosniff middleware
+2018-09-04 20:45:42,067 INFO 7397 [egg-security] use xssProtection middleware
+2018-09-04 20:45:42,068 INFO 7397 [egg-security] use xframe middleware
+2018-09-04 20:45:42,069 INFO 7397 [egg-security] use dta middleware
+2018-09-04 20:45:42,069 INFO 7397 [egg-security] compose 7 middlewares into one security middleware
+2018-09-04 20:45:42,108 INFO 7397 [egg:core] dump config after load, 27ms
+2018-09-04 20:45:42,141 INFO 7397 [egg-watcher:app] watcher start success
+2018-09-04 20:45:42,158 INFO 7397 [egg:core] dump config after ready, 9ms
+2018-09-04 20:45:41,970 INFO 7408 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-04 20:45:42,053 INFO 7408 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-04 20:45:42,054 INFO 7408 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-04 20:45:42,146 INFO 7408 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-04 20:45:42,152 INFO 7408 [egg-security] use csrf middleware
+2018-09-04 20:45:42,154 INFO 7408 [egg-security] use methodnoallow middleware
+2018-09-04 20:45:42,154 INFO 7408 [egg-security] use noopen middleware
+2018-09-04 20:45:42,156 INFO 7408 [egg-security] use nosniff middleware
+2018-09-04 20:45:42,157 INFO 7408 [egg-security] use xssProtection middleware
+2018-09-04 20:45:42,158 INFO 7408 [egg-security] use xframe middleware
+2018-09-04 20:45:42,158 INFO 7408 [egg-security] use dta middleware
+2018-09-04 20:45:42,159 INFO 7408 [egg-security] compose 7 middlewares into one security middleware
+2018-09-04 20:45:42,187 INFO 7408 [egg:core] dump config after load, 19ms
+2018-09-04 20:45:42,202 INFO 7408 [egg-watcher:app] watcher start success
+2018-09-04 20:45:42,214 INFO 7408 [egg:core] dump config after ready, 8ms
+2018-09-04 20:45:42,131 INFO 7403 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-04 20:45:42,239 INFO 7403 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-04 20:45:42,240 INFO 7403 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-04 20:45:42,321 INFO 7403 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-04 20:45:42,326 INFO 7403 [egg-security] use csrf middleware
+2018-09-04 20:45:42,328 INFO 7403 [egg-security] use methodnoallow middleware
+2018-09-04 20:45:42,329 INFO 7403 [egg-security] use noopen middleware
+2018-09-04 20:45:42,330 INFO 7403 [egg-security] use nosniff middleware
+2018-09-04 20:45:42,331 INFO 7403 [egg-security] use xssProtection middleware
+2018-09-04 20:45:42,332 INFO 7403 [egg-security] use xframe middleware
+2018-09-04 20:45:42,333 INFO 7403 [egg-security] use dta middleware
+2018-09-04 20:45:42,333 INFO 7403 [egg-security] compose 7 middlewares into one security middleware
+2018-09-04 20:45:42,360 INFO 7403 [egg:core] dump config after load, 11ms
+2018-09-04 20:45:42,382 INFO 7403 [egg-watcher:app] watcher start success
+2018-09-04 20:45:42,396 INFO 7403 [egg:core] dump config after ready, 9ms
+2018-09-04 20:45:42,167 INFO 7398 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-04 20:45:42,253 INFO 7398 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-04 20:45:42,254 INFO 7398 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-04 20:45:42,334 INFO 7398 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-04 20:45:42,340 INFO 7398 [egg-security] use csrf middleware
+2018-09-04 20:45:42,342 INFO 7398 [egg-security] use methodnoallow middleware
+2018-09-04 20:45:42,343 INFO 7398 [egg-security] use noopen middleware
+2018-09-04 20:45:42,345 INFO 7398 [egg-security] use nosniff middleware
+2018-09-04 20:45:42,346 INFO 7398 [egg-security] use xssProtection middleware
+2018-09-04 20:45:42,347 INFO 7398 [egg-security] use xframe middleware
+2018-09-04 20:45:42,348 INFO 7398 [egg-security] use dta middleware
+2018-09-04 20:45:42,349 INFO 7398 [egg-security] compose 7 middlewares into one security middleware
+2018-09-04 20:45:42,377 INFO 7398 [egg:core] dump config after load, 12ms
+2018-09-04 20:45:42,400 INFO 7398 [egg-watcher:app] watcher start success
+2018-09-04 20:45:42,408 INFO 7398 [egg:core] dump config after ready, 6ms
+2018-09-05 10:52:46,076 INFO 4780 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-05 10:52:46,202 INFO 4780 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-05 10:52:46,202 INFO 4780 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-05 10:52:47,421 INFO 4780 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-05 10:52:47,445 INFO 4780 [egg-security] use csrf middleware
+2018-09-05 10:52:47,450 INFO 4780 [egg-security] use methodnoallow middleware
+2018-09-05 10:52:47,451 INFO 4780 [egg-security] use noopen middleware
+2018-09-05 10:52:47,452 INFO 4780 [egg-security] use nosniff middleware
+2018-09-05 10:52:47,453 INFO 4780 [egg-security] use xssProtection middleware
+2018-09-05 10:52:47,454 INFO 4780 [egg-security] use xframe middleware
+2018-09-05 10:52:47,455 INFO 4780 [egg-security] use dta middleware
+2018-09-05 10:52:47,455 INFO 4780 [egg-security] compose 7 middlewares into one security middleware
+2018-09-05 10:52:47,531 INFO 4780 [egg:core] dump config after load, 10ms
+2018-09-05 10:52:47,549 INFO 4780 [egg-watcher:app] watcher start success
+2018-09-05 10:52:47,560 INFO 4780 [egg:core] dump config after ready, 9ms
+2018-09-11 12:00:02,398 INFO 3640 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-11 12:00:02,527 INFO 3640 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-11 12:00:02,527 INFO 3640 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-11 12:00:04,304 INFO 3640 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-11 12:00:04,327 INFO 3640 [egg-security] use csrf middleware
+2018-09-11 12:00:04,332 INFO 3640 [egg-security] use methodnoallow middleware
+2018-09-11 12:00:04,333 INFO 3640 [egg-security] use noopen middleware
+2018-09-11 12:00:04,334 INFO 3640 [egg-security] use nosniff middleware
+2018-09-11 12:00:04,336 INFO 3640 [egg-security] use xssProtection middleware
+2018-09-11 12:00:04,336 INFO 3640 [egg-security] use xframe middleware
+2018-09-11 12:00:04,337 INFO 3640 [egg-security] use dta middleware
+2018-09-11 12:00:04,337 INFO 3640 [egg-security] compose 7 middlewares into one security middleware
+2018-09-11 12:00:04,413 INFO 3640 [egg:core] dump config after load, 7ms
+2018-09-11 12:00:04,433 INFO 3640 [egg-watcher:app] watcher start success
+2018-09-11 12:00:04,443 INFO 3640 [egg:core] dump config after ready, 7ms
+2018-09-11 12:03:59,031 INFO 4047 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-11 12:03:59,139 INFO 4047 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-11 12:03:59,139 INFO 4047 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-11 12:03:59,255 INFO 4047 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-11 12:03:59,263 INFO 4047 [egg-security] use csrf middleware
+2018-09-11 12:03:59,265 INFO 4047 [egg-security] use methodnoallow middleware
+2018-09-11 12:03:59,273 INFO 4047 [egg-security] use noopen middleware
+2018-09-11 12:03:59,278 INFO 4047 [egg-security] use nosniff middleware
+2018-09-11 12:03:59,279 INFO 4047 [egg-security] use xssProtection middleware
+2018-09-11 12:03:59,280 INFO 4047 [egg-security] use xframe middleware
+2018-09-11 12:03:59,281 INFO 4047 [egg-security] use dta middleware
+2018-09-11 12:03:59,284 INFO 4047 [egg-security] compose 7 middlewares into one security middleware
+2018-09-11 12:03:59,333 INFO 4047 [egg:core] dump config after load, 22ms
+2018-09-11 12:03:59,377 INFO 4047 [egg-watcher:app] watcher start success
+2018-09-11 12:03:59,418 INFO 4047 [egg:core] dump config after ready, 23ms
+2018-09-11 12:03:59,036 INFO 4052 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-11 12:03:59,164 INFO 4052 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-11 12:03:59,165 INFO 4052 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-11 12:03:59,270 INFO 4052 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-11 12:03:59,287 INFO 4052 [egg-security] use csrf middleware
+2018-09-11 12:03:59,289 INFO 4052 [egg-security] use methodnoallow middleware
+2018-09-11 12:03:59,295 INFO 4052 [egg-security] use noopen middleware
+2018-09-11 12:03:59,297 INFO 4052 [egg-security] use nosniff middleware
+2018-09-11 12:03:59,298 INFO 4052 [egg-security] use xssProtection middleware
+2018-09-11 12:03:59,299 INFO 4052 [egg-security] use xframe middleware
+2018-09-11 12:03:59,299 INFO 4052 [egg-security] use dta middleware
+2018-09-11 12:03:59,300 INFO 4052 [egg-security] compose 7 middlewares into one security middleware
+2018-09-11 12:03:59,378 INFO 4052 [egg:core] dump config after load, 32ms
+2018-09-11 12:03:59,448 INFO 4052 [egg-watcher:app] watcher start success
+2018-09-11 12:03:59,461 INFO 4052 [egg:core] dump config after ready, 8ms
+2018-09-11 12:03:59,058 INFO 4053 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-11 12:03:59,285 INFO 4053 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-11 12:03:59,285 INFO 4053 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-11 12:03:59,392 INFO 4053 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-11 12:03:59,397 INFO 4053 [egg-security] use csrf middleware
+2018-09-11 12:03:59,398 INFO 4053 [egg-security] use methodnoallow middleware
+2018-09-11 12:03:59,399 INFO 4053 [egg-security] use noopen middleware
+2018-09-11 12:03:59,400 INFO 4053 [egg-security] use nosniff middleware
+2018-09-11 12:03:59,401 INFO 4053 [egg-security] use xssProtection middleware
+2018-09-11 12:03:59,402 INFO 4053 [egg-security] use xframe middleware
+2018-09-11 12:03:59,403 INFO 4053 [egg-security] use dta middleware
+2018-09-11 12:03:59,404 INFO 4053 [egg-security] compose 7 middlewares into one security middleware
+2018-09-11 12:03:59,466 INFO 4053 [egg:core] dump config after load, 20ms
+2018-09-11 12:03:59,493 INFO 4053 [egg-watcher:app] watcher start success
+2018-09-11 12:03:59,505 INFO 4053 [egg:core] dump config after ready, 8ms
+2018-09-11 12:03:59,274 INFO 4058 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-11 12:03:59,360 INFO 4058 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-11 12:03:59,360 INFO 4058 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-11 12:03:59,460 INFO 4058 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-11 12:03:59,465 INFO 4058 [egg-security] use csrf middleware
+2018-09-11 12:03:59,467 INFO 4058 [egg-security] use methodnoallow middleware
+2018-09-11 12:03:59,467 INFO 4058 [egg-security] use noopen middleware
+2018-09-11 12:03:59,468 INFO 4058 [egg-security] use nosniff middleware
+2018-09-11 12:03:59,469 INFO 4058 [egg-security] use xssProtection middleware
+2018-09-11 12:03:59,470 INFO 4058 [egg-security] use xframe middleware
+2018-09-11 12:03:59,470 INFO 4058 [egg-security] use dta middleware
+2018-09-11 12:03:59,470 INFO 4058 [egg-security] compose 7 middlewares into one security middleware
+2018-09-11 12:03:59,497 INFO 4058 [egg:core] dump config after load, 12ms
+2018-09-11 12:03:59,516 INFO 4058 [egg-watcher:app] watcher start success
+2018-09-11 12:03:59,526 INFO 4058 [egg:core] dump config after ready, 7ms
+2018-09-12 14:29:48,371 INFO 2992 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 14:29:48,458 INFO 2992 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 14:29:48,458 INFO 2992 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 14:29:52,040 INFO 2992 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 14:29:52,064 INFO 2992 [egg-security] use csrf middleware
+2018-09-12 14:29:52,066 INFO 2992 [egg-security] use methodnoallow middleware
+2018-09-12 14:29:52,067 INFO 2992 [egg-security] use noopen middleware
+2018-09-12 14:29:52,068 INFO 2992 [egg-security] use nosniff middleware
+2018-09-12 14:29:52,069 INFO 2992 [egg-security] use xssProtection middleware
+2018-09-12 14:29:52,070 INFO 2992 [egg-security] use xframe middleware
+2018-09-12 14:29:52,070 INFO 2992 [egg-security] use dta middleware
+2018-09-12 14:29:52,070 INFO 2992 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 14:29:52,139 INFO 2992 [egg:core] dump config after load, 11ms
+2018-09-12 14:29:52,167 INFO 2992 [egg-watcher:app] watcher start success
+2018-09-12 14:29:52,179 INFO 2992 [egg:core] dump config after ready, 9ms
+2018-09-12 17:18:29,074 INFO 24012 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:18:29,117 INFO 24012 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:18:29,117 INFO 24012 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:18:29,258 INFO 24012 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:18:29,260 INFO 24012 [egg-security] use csrf middleware
+2018-09-12 17:18:29,261 INFO 24012 [egg-security] use methodnoallow middleware
+2018-09-12 17:18:29,261 INFO 24012 [egg-security] use noopen middleware
+2018-09-12 17:18:29,262 INFO 24012 [egg-security] use nosniff middleware
+2018-09-12 17:18:29,262 INFO 24012 [egg-security] use xssProtection middleware
+2018-09-12 17:18:29,262 INFO 24012 [egg-security] use xframe middleware
+2018-09-12 17:18:29,262 INFO 24012 [egg-security] use dta middleware
+2018-09-12 17:18:29,262 INFO 24012 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:18:29,282 INFO 24012 [egg:core] dump config after load, 11ms
+2018-09-12 17:18:29,304 INFO 24012 [egg-watcher:app] watcher start success
+2018-09-12 17:18:29,315 INFO 24012 [egg:core] dump config after ready, 8ms
+2018-09-12 17:39:38,798 INFO 28326 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:39:38,878 INFO 28326 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:39:38,879 INFO 28326 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:39:39,030 INFO 28326 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:39:39,035 INFO 28326 [egg-security] use csrf middleware
+2018-09-12 17:39:39,036 INFO 28326 [egg-security] use methodnoallow middleware
+2018-09-12 17:39:39,037 INFO 28326 [egg-security] use noopen middleware
+2018-09-12 17:39:39,038 INFO 28326 [egg-security] use nosniff middleware
+2018-09-12 17:39:39,038 INFO 28326 [egg-security] use xssProtection middleware
+2018-09-12 17:39:39,039 INFO 28326 [egg-security] use xframe middleware
+2018-09-12 17:39:39,040 INFO 28326 [egg-security] use dta middleware
+2018-09-12 17:39:39,040 INFO 28326 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:39:39,070 INFO 28326 [egg:core] dump config after load, 22ms
+2018-09-12 17:39:39,120 INFO 28326 [egg-watcher:app] watcher start success
+2018-09-12 17:39:39,151 INFO 28326 [egg:core] dump config after ready, 22ms
+2018-09-12 17:39:38,841 INFO 28327 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:39:38,924 INFO 28327 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:39:38,925 INFO 28327 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:39:39,076 INFO 28327 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:39:39,081 INFO 28327 [egg-security] use csrf middleware
+2018-09-12 17:39:39,083 INFO 28327 [egg-security] use methodnoallow middleware
+2018-09-12 17:39:39,083 INFO 28327 [egg-security] use noopen middleware
+2018-09-12 17:39:39,084 INFO 28327 [egg-security] use nosniff middleware
+2018-09-12 17:39:39,085 INFO 28327 [egg-security] use xssProtection middleware
+2018-09-12 17:39:39,086 INFO 28327 [egg-security] use xframe middleware
+2018-09-12 17:39:39,087 INFO 28327 [egg-security] use dta middleware
+2018-09-12 17:39:39,087 INFO 28327 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:39:39,162 INFO 28327 [egg:core] dump config after load, 39ms
+2018-09-12 17:39:39,211 INFO 28327 [egg-watcher:app] watcher start success
+2018-09-12 17:39:39,243 INFO 28327 [egg:core] dump config after ready, 18ms
+2018-09-12 17:39:38,908 INFO 28332 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:39:39,013 INFO 28332 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:39:39,013 INFO 28332 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:39:39,183 INFO 28332 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:39:39,197 INFO 28332 [egg-security] use csrf middleware
+2018-09-12 17:39:39,199 INFO 28332 [egg-security] use methodnoallow middleware
+2018-09-12 17:39:39,199 INFO 28332 [egg-security] use noopen middleware
+2018-09-12 17:39:39,201 INFO 28332 [egg-security] use nosniff middleware
+2018-09-12 17:39:39,202 INFO 28332 [egg-security] use xssProtection middleware
+2018-09-12 17:39:39,203 INFO 28332 [egg-security] use xframe middleware
+2018-09-12 17:39:39,204 INFO 28332 [egg-security] use dta middleware
+2018-09-12 17:39:39,204 INFO 28332 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:39:39,251 INFO 28332 [egg:core] dump config after load, 18ms
+2018-09-12 17:39:39,276 INFO 28332 [egg-watcher:app] watcher start success
+2018-09-12 17:39:39,289 INFO 28332 [egg:core] dump config after ready, 8ms
+2018-09-12 17:39:39,008 INFO 28337 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:39:39,092 INFO 28337 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:39:39,092 INFO 28337 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:39:39,209 INFO 28337 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:39:39,214 INFO 28337 [egg-security] use csrf middleware
+2018-09-12 17:39:39,215 INFO 28337 [egg-security] use methodnoallow middleware
+2018-09-12 17:39:39,216 INFO 28337 [egg-security] use noopen middleware
+2018-09-12 17:39:39,218 INFO 28337 [egg-security] use nosniff middleware
+2018-09-12 17:39:39,219 INFO 28337 [egg-security] use xssProtection middleware
+2018-09-12 17:39:39,223 INFO 28337 [egg-security] use xframe middleware
+2018-09-12 17:39:39,228 INFO 28337 [egg-security] use dta middleware
+2018-09-12 17:39:39,228 INFO 28337 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:39:39,252 INFO 28337 [egg:core] dump config after load, 11ms
+2018-09-12 17:39:39,274 INFO 28337 [egg-watcher:app] watcher start success
+2018-09-12 17:39:39,293 INFO 28337 [egg:core] dump config after ready, 15ms
+2018-09-12 17:40:51,520 INFO 29150 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:40:51,604 INFO 29150 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:40:51,605 INFO 29150 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:40:51,698 INFO 29150 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:40:51,703 INFO 29150 [egg-security] use csrf middleware
+2018-09-12 17:40:51,705 INFO 29150 [egg-security] use methodnoallow middleware
+2018-09-12 17:40:51,705 INFO 29150 [egg-security] use noopen middleware
+2018-09-12 17:40:51,706 INFO 29150 [egg-security] use nosniff middleware
+2018-09-12 17:40:51,707 INFO 29150 [egg-security] use xssProtection middleware
+2018-09-12 17:40:51,710 INFO 29150 [egg-security] use xframe middleware
+2018-09-12 17:40:51,711 INFO 29150 [egg-security] use dta middleware
+2018-09-12 17:40:51,711 INFO 29150 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:40:51,764 INFO 29150 [egg:core] dump config after load, 43ms
+2018-09-12 17:40:51,805 INFO 29150 [egg-watcher:app] watcher start success
+2018-09-12 17:40:51,836 INFO 29150 [egg:core] dump config after ready, 23ms
+2018-09-12 17:40:51,573 INFO 29157 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:40:51,673 INFO 29157 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:40:51,673 INFO 29157 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:40:51,779 INFO 29157 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:40:51,785 INFO 29157 [egg-security] use csrf middleware
+2018-09-12 17:40:51,787 INFO 29157 [egg-security] use methodnoallow middleware
+2018-09-12 17:40:51,788 INFO 29157 [egg-security] use noopen middleware
+2018-09-12 17:40:51,789 INFO 29157 [egg-security] use nosniff middleware
+2018-09-12 17:40:51,791 INFO 29157 [egg-security] use xssProtection middleware
+2018-09-12 17:40:51,792 INFO 29157 [egg-security] use xframe middleware
+2018-09-12 17:40:51,793 INFO 29157 [egg-security] use dta middleware
+2018-09-12 17:40:51,793 INFO 29157 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:40:51,833 INFO 29157 [egg:core] dump config after load, 27ms
+2018-09-12 17:40:51,890 INFO 29157 [egg-watcher:app] watcher start success
+2018-09-12 17:40:51,906 INFO 29157 [egg:core] dump config after ready, 12ms
+2018-09-12 17:40:51,600 INFO 29151 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:40:51,697 INFO 29151 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:40:51,698 INFO 29151 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:40:51,818 INFO 29151 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:40:51,824 INFO 29151 [egg-security] use csrf middleware
+2018-09-12 17:40:51,826 INFO 29151 [egg-security] use methodnoallow middleware
+2018-09-12 17:40:51,827 INFO 29151 [egg-security] use noopen middleware
+2018-09-12 17:40:51,828 INFO 29151 [egg-security] use nosniff middleware
+2018-09-12 17:40:51,845 INFO 29151 [egg-security] use xssProtection middleware
+2018-09-12 17:40:51,846 INFO 29151 [egg-security] use xframe middleware
+2018-09-12 17:40:51,847 INFO 29151 [egg-security] use dta middleware
+2018-09-12 17:40:51,847 INFO 29151 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:40:51,868 INFO 29151 [egg:core] dump config after load, 11ms
+2018-09-12 17:40:51,885 INFO 29151 [egg-watcher:app] watcher start success
+2018-09-12 17:40:51,901 INFO 29151 [egg:core] dump config after ready, 12ms
+2018-09-12 17:40:51,750 INFO 29145 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:40:51,938 INFO 29145 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:40:51,938 INFO 29145 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:40:51,994 INFO 29145 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:40:51,999 INFO 29145 [egg-security] use csrf middleware
+2018-09-12 17:40:52,001 INFO 29145 [egg-security] use methodnoallow middleware
+2018-09-12 17:40:52,002 INFO 29145 [egg-security] use noopen middleware
+2018-09-12 17:40:52,009 INFO 29145 [egg-security] use nosniff middleware
+2018-09-12 17:40:52,010 INFO 29145 [egg-security] use xssProtection middleware
+2018-09-12 17:40:52,011 INFO 29145 [egg-security] use xframe middleware
+2018-09-12 17:40:52,012 INFO 29145 [egg-security] use dta middleware
+2018-09-12 17:40:52,012 INFO 29145 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:40:52,027 INFO 29145 [egg:core] dump config after load, 7ms
+2018-09-12 17:40:52,041 INFO 29145 [egg-watcher:app] watcher start success
+2018-09-12 17:40:52,050 INFO 29145 [egg:core] dump config after ready, 5ms
+2018-09-12 17:48:22,581 INFO 2587 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:48:22,725 INFO 2587 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:48:22,725 INFO 2587 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:48:23,551 INFO 2587 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:48:23,586 INFO 2587 [egg-security] use csrf middleware
+2018-09-12 17:48:23,592 INFO 2587 [egg-security] use methodnoallow middleware
+2018-09-12 17:48:23,593 INFO 2587 [egg-security] use noopen middleware
+2018-09-12 17:48:23,595 INFO 2587 [egg-security] use nosniff middleware
+2018-09-12 17:48:23,596 INFO 2587 [egg-security] use xssProtection middleware
+2018-09-12 17:48:23,597 INFO 2587 [egg-security] use xframe middleware
+2018-09-12 17:48:23,598 INFO 2587 [egg-security] use dta middleware
+2018-09-12 17:48:23,598 INFO 2587 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:48:23,661 INFO 2587 [egg:core] dump config after load, 18ms
+2018-09-12 17:48:22,556 INFO 2577 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:48:22,712 INFO 2577 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:48:22,713 INFO 2577 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:48:23,552 INFO 2577 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:48:23,586 INFO 2577 [egg-security] use csrf middleware
+2018-09-12 17:48:23,592 INFO 2577 [egg-security] use methodnoallow middleware
+2018-09-12 17:48:23,593 INFO 2577 [egg-security] use noopen middleware
+2018-09-12 17:48:23,595 INFO 2577 [egg-security] use nosniff middleware
+2018-09-12 17:48:23,595 INFO 2577 [egg-security] use xssProtection middleware
+2018-09-12 17:48:23,597 INFO 2577 [egg-security] use xframe middleware
+2018-09-12 17:48:23,598 INFO 2577 [egg-security] use dta middleware
+2018-09-12 17:48:23,598 INFO 2577 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:48:23,656 INFO 2577 [egg:core] dump config after load, 18ms
+2018-09-12 17:48:22,573 INFO 2576 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:48:22,740 INFO 2576 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:48:22,744 INFO 2576 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:48:23,552 INFO 2576 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:48:23,588 INFO 2576 [egg-security] use csrf middleware
+2018-09-12 17:48:23,592 INFO 2576 [egg-security] use methodnoallow middleware
+2018-09-12 17:48:23,593 INFO 2576 [egg-security] use noopen middleware
+2018-09-12 17:48:23,594 INFO 2576 [egg-security] use nosniff middleware
+2018-09-12 17:48:23,596 INFO 2576 [egg-security] use xssProtection middleware
+2018-09-12 17:48:23,597 INFO 2576 [egg-security] use xframe middleware
+2018-09-12 17:48:23,600 INFO 2576 [egg-security] use dta middleware
+2018-09-12 17:48:23,600 INFO 2576 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:48:23,665 INFO 2576 [egg:core] dump config after load, 22ms
+2018-09-12 17:48:22,557 INFO 2582 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:48:22,733 INFO 2582 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:48:22,733 INFO 2582 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:48:23,558 INFO 2582 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:48:23,586 INFO 2582 [egg-security] use csrf middleware
+2018-09-12 17:48:23,592 INFO 2582 [egg-security] use methodnoallow middleware
+2018-09-12 17:48:23,594 INFO 2582 [egg-security] use noopen middleware
+2018-09-12 17:48:23,595 INFO 2582 [egg-security] use nosniff middleware
+2018-09-12 17:48:23,596 INFO 2582 [egg-security] use xssProtection middleware
+2018-09-12 17:48:23,597 INFO 2582 [egg-security] use xframe middleware
+2018-09-12 17:48:23,598 INFO 2582 [egg-security] use dta middleware
+2018-09-12 17:48:23,598 INFO 2582 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:48:23,666 INFO 2582 [egg:core] dump config after load, 27ms
+2018-09-12 17:48:23,705 INFO 2587 [egg-watcher:app] watcher start success
+2018-09-12 17:48:23,719 INFO 2587 [egg:core] dump config after ready, 8ms
+2018-09-12 17:48:23,706 INFO 2577 [egg-watcher:app] watcher start success
+2018-09-12 17:48:23,732 INFO 2577 [egg:core] dump config after ready, 21ms
+2018-09-12 17:48:23,721 INFO 2576 [egg-watcher:app] watcher start success
+2018-09-12 17:48:23,739 INFO 2576 [egg:core] dump config after ready, 14ms
+2018-09-12 17:48:23,707 INFO 2582 [egg-watcher:app] watcher start success
+2018-09-12 17:48:23,729 INFO 2582 [egg:core] dump config after ready, 13ms
+2018-09-12 17:57:54,683 INFO 5852 [egg:logger] init all loggers with options: {"dir":"/home/zhangjialin/vue-exp/lin/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-12 17:57:54,734 INFO 5852 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js
+2018-09-12 17:57:54,734 INFO 5852 [egg-schedule]: register schedule /home/zhangjialin/vue-exp/lin/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-12 17:57:54,952 INFO 5852 [egg-static] starting static serve /public/ -> /home/zhangjialin/vue-exp/lin/public
+2018-09-12 17:57:54,954 INFO 5852 [egg-security] use csrf middleware
+2018-09-12 17:57:54,955 INFO 5852 [egg-security] use methodnoallow middleware
+2018-09-12 17:57:54,955 INFO 5852 [egg-security] use noopen middleware
+2018-09-12 17:57:54,955 INFO 5852 [egg-security] use nosniff middleware
+2018-09-12 17:57:54,956 INFO 5852 [egg-security] use xssProtection middleware
+2018-09-12 17:57:54,956 INFO 5852 [egg-security] use xframe middleware
+2018-09-12 17:57:54,956 INFO 5852 [egg-security] use dta middleware
+2018-09-12 17:57:54,956 INFO 5852 [egg-security] compose 7 middlewares into one security middleware
+2018-09-12 17:57:54,971 INFO 5852 [egg:core] dump config after load, 6ms
+2018-09-12 17:57:54,991 INFO 5852 [egg-watcher:app] watcher start success
+2018-09-12 17:57:55,004 INFO 5852 [egg:core] dump config after ready, 9ms
